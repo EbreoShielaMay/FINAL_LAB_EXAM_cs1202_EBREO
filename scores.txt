@@ -1,0 +1,3 @@
+shiela,12,3
+ebreo,4,1
+memem,0,0
